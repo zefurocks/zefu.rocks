@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/zefu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zefu.rocks
+  * I am zefu (https://keybase.io/zefu) on keybase.
+  * I have a public key ASAvImFQpmgjyWqVbI3t-XUrUvcky_D_m5RBMMGQWKUpwAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012065c2364903d1e549c3e7f06dd389cfd2da054aed22c263fda8abaddfb8085fc60a",
+      "host": "keybase.io",
+      "kid": "01202f226150a66823c96a956c8dedf9752b52f724cbf0ff9b944130c19058a529c00a",
+      "uid": "a383655602da7a2c6da1ed4d60368a19",
+      "username": "zefu"
+    },
+    "merkle_root": {
+      "ctime": 1565294915,
+      "hash": "2bb7c404d594e9643fed09e1943845ed8700dd7069416f7a4e0d223b905992d39ffa11fd898a2e8458eb0e17284cf9f151a434eb46fdc7b3e8b546413a5327c3",
+      "hash_meta": "f7cf54b0cef7482036f9e464fe2c22783a9dfe9eb03bcf313e4085820b99d105",
+      "seqno": 5973976
+    },
+    "service": {
+      "entropy": "6wu2tohzS62I4B4pHXV6JrTn",
+      "hostname": "zefu.rocks",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1565294923,
+  "expire_in": 504576000,
+  "prev": "9489a11996280b03f3537b4b953ab836ca0659a7b8b1821266d32c9eea895722",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLyJhUKZoI8lqlWyN7fl1K1L3JMvw/5uUQTDBkFilKcAKp3BheWxvYWTESpcCC8QglImhGZYoCwPzU3tLlTq4NsoGWae4sYISZtMsnuqJVyLEIBYONwTOMuXe6/Iqma2euYivHBXSCLxevjhxMOVv6gsAAgHCo3NpZ8RALdoF38r8RCzj0vndolOMjRG6pph/hIXFCy9HsjkHpoP/cMGD9TaE1XTJuw4Zht98NE7GSzrZtSi7GxcNblEpAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF+kFeU/9sCzSzIAIsDuq/EgiIBJTpIO5SLEnvqOeKndo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zefu
+
+==================================================================
